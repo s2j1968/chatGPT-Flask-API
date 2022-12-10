@@ -1,0 +1,4 @@
+run api.py ( it will start a server that will be listening at localhost:5000/prompt
+
+
+then run testscript.py to send a request and see response....
